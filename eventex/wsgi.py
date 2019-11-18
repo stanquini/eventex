@@ -8,9 +8,9 @@ https://docs.djangoproject.com/en/2.2/howto/deployment/wsgi/
 """
 
 import os
-from dj_static import Cling
 from django.core.wsgi import get_wsgi_application
+from dj_static import Cling
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'eventex.settings')
+os.environ.setdefault(“DJANGO_SETTINGS_MODULE”, “eventex.settings”)
 
 application = Cling(get_wsgi_application())
