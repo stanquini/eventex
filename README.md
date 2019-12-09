@@ -1,6 +1,6 @@
 # Eventex
 
-Sistema se Eventos encomendado pela Morena
+Sistema de Eventos encomendado pela Morena
 
 ## Como desenvolver?
 
