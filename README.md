@@ -1,6 +1,7 @@
 # Eventex
+Curso WTTD
 
-Sistema de Eventos encomendado pela Morena
+https://eventex-alfredostanquini.herokuapp.com
 
 [![Build Status](https://travis-ci.org/stanquini/eventex.svg?branch=master)](https://travis-ci.org/stanquini/eventex)
 
